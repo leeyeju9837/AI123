@@ -12,9 +12,9 @@ st.subheader("밴드 루시의 서비스")
 
 # 3. 판다스 데이터프레임 기반 표 출력
 df = pd.DataFrame({
-    "Name": ["신예찬", "최상엽", "조원상", "신광일"],
-    "Age": [32, 30, 28, 27],
-    "Country": ["Korea", "Korea", "Korea", "Korea"]
+    "이름": ["신예찬", "최상엽", "조원상", "신광일"],
+    "나이": [32, 30, 28, 27],
+    "국적": ["Korea", "Korea", "Korea", "Korea"]
 })
 st.write("데이터프레임 예제")
 st.dataframe(df)
