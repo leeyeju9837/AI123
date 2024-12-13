@@ -55,6 +55,6 @@ st.write("루시 밴드의 사진")
 st.image("https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA2MDlfMjYw%2FMDAxNjg2MjM5NDE5MjEy.SOdcIqnbcdJP90BkeFkOcFnTJCrdIU7B-ojaqdPUihkg.ab1MplMZKtXolngtyMWEvEkG5zceBDUD9Qnl2QGzrz8g.PNG.chldndngus%2Fimage.png&type=sc960_832", caption="Streamlit 로고")
 
 # 7. 유튜브 링크 (썸네일 표시)
-st.write("루시 유튜브 동영")
+st.write("루시 유튜브 동영상")
 st.video("https://www.youtube.com/watch?v=9_ddQoK9lHA")
 
