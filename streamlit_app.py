@@ -12,7 +12,7 @@ st.subheader("루시의 서비스")
 
 # 3. 판다스 데이터프레임 기반 표 출력
 df = pd.DataFrame({
-    "이름": ["신예찬", "최상엽", "조원상","신광일기본적인 Streamlit 페이지 예제
+    "이름": ["신예찬", "최상엽", "조원상", "신광일" 기본적인 Streamlit 페이지 예제
 
 # streamlit_app.py
 import streamlit as st
